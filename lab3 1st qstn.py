@@ -10,3 +10,4 @@ print(a, "is the combined list of l and m in another list")
 for _ in a:
     d["combined"] = a
 print(d)
+print(d)
